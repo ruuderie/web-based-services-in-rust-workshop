@@ -22,3 +22,4 @@ hyper = { version = "0.14", features = ["full"] }
 gag = "1.0.0"
 futures = "0.3.25"
 axum-macros = "0.3.4"
+serde = "1.0.171"
